@@ -1,0 +1,49 @@
+{
+   "author":"Juan José",
+   "id":"GolTV_Israel",
+   "json_title":"Israel",
+   "entries":[
+      {
+         "id":"Kan11",
+         "title":"Kan",
+         "summary":"Israel 11",
+         "video_src":"https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-11/hls-live.m3u8",
+         "image_src":"https://media3.reshet.tv/image/upload/t_main_large/v1490694764/%D7%AA%D7%90%D7%92%D7%99%D7%93-%D7%94%D7%A9%D7%99%D7%93%D7%95%D7%A8_sz9mzm.jpg"
+      },
+      {
+         "id":"channel12",
+         "title":"Channel 12",
+         "summary":"Israel 12",
+         "video_src":"https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel12.il.m3u8",
+         "image_src":"https://img.mako.co.il/2020/03/24/rrrrr_i.jpg"
+      },
+      {
+         "id":"channel13",
+         "title":"Channel 13",
+         "summary":"Israel 13",
+         "video_src":"https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8",
+         "image_src":"https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d1b1e11e36248d4a164b2ce4d660e5e/version/42/width/320/height/180/quality/70"
+      },
+      {
+         "id":"chinuchit_23",
+         "title":"23 תיכוניח",
+         "summary":"Israel 23",
+         "video_src":"https://stream-05.ix7.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJ_GdHAakyPDol0e9i4Tuwn4VnHViYPrJUKIYXtUyMYS)/dm/3/x7ymw7f/s/live-3.m3u8",
+         "image_src":"https://media3.reshet.tv/image/upload/t_og_image/v1697969976/uploads/2023/903764494.jpg"
+      },
+      {
+         "id":"keshet_news",
+         "title":"12 תושדח",
+         "summary":"Israel 12 News",
+         "video_src":"http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u",
+         "image_src":"https://img.mako.co.il/2021/02/16/I_txt-v2.jpg"
+      },
+      {
+         "id":"arutz_ha_nofesh",
+         "title":"שפונה ץורע",
+         "summary":"Israel Vacation Channel",
+         "video_src":"https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
+         "image_src":"https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7f5a916948b4bd9a0db18be35ef3d3f/version/4/width/320/height/180/quality/70"
+      }
+   ]
+}
